@@ -1,6 +1,6 @@
 # ЄДКІ. Спеціальність 125
 ###  [Завантажити версію 0.32](https://github.com/ArchExalt/EDKIApp/blob/main/EDKI-v0.32.apk)
-### [SHA-256 Checksum](https://emn178.github.io/online-tools/sha256_checksum.html): 669678eaa10a37ae67469bbb30c759ff7595ae47367266d70b0e3dc240a5dde2
+### [SHA-256](https://emn178.github.io/online-tools/sha256_checksum.html): 669678eaa10a37ae67469bbb30c759ff7595ae47367266d70b0e3dc240a5dde2
 
 ---
 Оновлення v0.32 (16.09.23):
