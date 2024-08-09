@@ -27,9 +27,10 @@ SHA-256: 584855d008216fcdbc2a6246b143c5384b16dd5baa81c96e34b297eb5b917b3d
 
 Особлива подяка kgnokt за заощадження часу шляхом форматування текстів.
 
-Якщо ви хочете мене підтримати:
+Якщо ви бажаєте мене підтримати:
 
-<a href="https://www.buymeacoffee.com/archexalt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href='https://ko-fi.com/P5P011M9VJ' target='_blank'><img height='36' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 
 ---
 
