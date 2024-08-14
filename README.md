@@ -36,3 +36,9 @@ SHA-256: 9f163332d9df1d4978b83246d7789b555f281cc7ab70009c83f25437454bf1e6
 
 <img width="150px" src="./screenshot1.png" alt="screenshot1.png" /> <img width="150px" src="./screenshot2.png" alt="screenshot2.png" /> <img width="150px" src="./screenshot3.png" alt="screenshot3.png" /> <img width="150px" src="./screenshot4.png" alt="screenshot4.png" />
 
+This work © 2024 by ArchExalt is licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International][cc-by-nc-nd]
+
+[![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
+
+[cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
