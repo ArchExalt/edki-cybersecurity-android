@@ -1,6 +1,6 @@
 # ЄДКІ. Кібербезпека
 
-| [Завантажити ЄДКІ. Кібербезпека v1.0](https://github.com/ArchExalt/edki-cybersecurity-android/releases/tag/stable) | [Privacy Policy](https://archexalt.github.io/edki-cybersecurity-android/) |
+| [Завантажити ЄДКІ. Кібербезпека v1.0](https://github.com/ArchExalt/edki-cybersecurity-android/releases/tag/1.0-stable) | [Privacy Policy](https://archexalt.github.io/edki-cybersecurity-android/) |
 | --- | --- |
 
 SHA-256: 9f163332d9df1d4978b83246d7789b555f281cc7ab70009c83f25437454bf1e6
